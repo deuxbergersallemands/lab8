@@ -5,6 +5,10 @@ $(document).ready(function() {
 	initializePage();
 });
 
+
+
+/* An edit */
+
 /*
  * Function that is called when the document is ready.
  */
